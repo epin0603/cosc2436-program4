@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-//Name: Eddie G. Pineda																			   //
-//Date: 10/22/2022																				   //
+//Name: Eddie G. Pineda										   //
+//Date: 10/22/2022										   //
 //Program Statement: Create a program to solve Ackermann's Function. Use the following logic:      //
 //                          If m = 0 then   return n + 1                                           //
 //                          If n = 0 then   return A(m-1,1)                                        //
